@@ -1,0 +1,51 @@
+2020-03-18 21:03:38,457 [main] INFO PTCIntegrity - ######## Login ########
+2020-03-18 21:06:21,526 [main] INFO PTCIntegrity - ######## Login ########
+2020-03-18 21:06:25,440 [main] INFO PTCIntegrity - ########Login Done Successfully########
+2020-03-18 21:06:25,467 [main] INFO PTCIntegrity - ########Select New Customer########
+2020-03-18 21:06:26,469 [main] INFO PTCIntegrity - ########New Customer Page Loaded########
+2020-03-18 21:06:27,351 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-18 21:06:30,565 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-18 21:06:34,775 [main] INFO PTCIntegrity - Customer created 61385
+2020-03-18 21:06:38,918 [main] INFO PTCIntegrity - Customer deleted 61385
+2020-03-18 21:11:03,576 [main] INFO PTCIntegrity - ######## Login ########
+2020-03-18 21:12:04,796 [main] INFO PTCIntegrity - ######## Login ########
+2020-03-18 21:12:10,558 [main] INFO PTCIntegrity - ########Login Done Successfully########
+2020-03-18 21:12:10,603 [main] INFO PTCIntegrity - ########Select New Customer########
+2020-03-18 21:12:26,313 [main] INFO PTCIntegrity - ########New Customer Page Loaded########
+2020-03-18 21:12:27,054 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-18 21:12:39,749 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-18 21:12:58,049 [main] INFO PTCIntegrity - Customer created 35031
+2020-03-18 21:13:02,007 [main] INFO PTCIntegrity - Customer deleted 35031
+2020-03-18 21:13:10,534 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-18 21:13:16,386 [main] INFO PTCIntegrity - Customer created 36662
+2020-03-18 21:13:19,995 [main] INFO PTCIntegrity - Customer deleted 36662
+2020-03-18 21:16:46,596 [main] INFO PTCIntegrity - ########Select New Customer########
+2020-03-18 21:17:39,926 [main] INFO PTCIntegrity - ######## Login ########
+2020-03-18 21:17:46,890 [main] INFO PTCIntegrity - ########Login Done Successfully########
+2020-03-18 21:17:46,939 [main] INFO PTCIntegrity - ########Select New Customer########
+2020-03-18 21:18:02,292 [main] INFO PTCIntegrity - ########New Customer Page Loaded########
+2020-03-18 21:18:03,113 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-19 05:53:03,694 [main] INFO PTCIntegrity - ######## Login ########
+2020-03-19 05:53:05,304 [main] INFO PTCIntegrity - ########Login Done Successfully########
+2020-03-19 05:53:05,372 [main] INFO PTCIntegrity - ########Select New Customer########
+2020-03-19 05:53:06,378 [main] INFO PTCIntegrity - ########New Customer Page Loaded########
+2020-03-19 05:53:07,199 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-19 05:53:09,157 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-19 05:53:11,543 [main] INFO PTCIntegrity - Customer created 29496
+2020-03-19 05:53:13,510 [main] INFO PTCIntegrity - Customer deleted 29496
+2020-03-19 05:53:14,692 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-19 05:53:16,872 [main] INFO PTCIntegrity - Customer created 98858
+2020-03-19 05:53:19,437 [main] INFO PTCIntegrity - Customer deleted 98858
+2020-03-19 05:54:22,789 [main] INFO PTCIntegrity - ######## Login ########
+2020-03-19 05:54:24,739 [main] INFO PTCIntegrity - ########Login Done Successfully########
+2020-03-19 05:54:24,761 [main] INFO PTCIntegrity - ########Select New Customer########
+2020-03-19 05:54:25,939 [main] INFO PTCIntegrity - ########New Customer Page Loaded########
+2020-03-19 05:54:26,559 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-19 05:54:29,612 [main] INFO PTCIntegrity - Customer created 30017
+2020-03-19 05:54:32,068 [main] INFO PTCIntegrity - Customer deleted 30017
+2020-03-19 05:54:33,202 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-19 05:54:36,160 [main] INFO PTCIntegrity - Customer created 19315
+2020-03-19 05:54:38,111 [main] INFO PTCIntegrity - Customer deleted 19315
+2020-03-19 05:54:39,566 [main] INFO PTCIntegrity - Enter Customer Detail
+2020-03-19 05:54:42,829 [main] INFO PTCIntegrity - Customer created 34560
+2020-03-19 05:54:45,034 [main] INFO PTCIntegrity - Customer deleted 34560
