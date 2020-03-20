@@ -19,7 +19,6 @@ public class TestRunner {
 		testng.addListener(extent);
 
 		testng.run();
-		
-			}
-
+		System.out.println("Hello");
+	}
 }
