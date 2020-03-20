@@ -20,8 +20,6 @@ public class TestRunner {
 
 		testng.run();
 		
-		System.out.println("hELLO");
-
-	}
+			}
 
 }
